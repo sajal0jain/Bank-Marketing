@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 30 22:52:34 2016
-
-@author: Jayanta
-"""
 
 from skimage.feature import greycomatrix, greycoprops
 from skimage import data
